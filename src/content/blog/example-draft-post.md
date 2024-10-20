@@ -1,21 +1,15 @@
 ---
-title: Example Draft Post
 author: Sat Naing
-pubDatetime: 2022-06-06T04:06:31Z
+title: Yo
 slug: example-draft-post
 featured: false
 draft: true
 tags:
-  - TypeScript
-  - Astro
-description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+  - poop
+  - fart
+description: listen yo
 ---
+yo ahh aint tough for the homeboys at home yo
 
-Users cannot see this post because it is in draft.
-
-## Motivation
-
-rec 1
+i like to ride for my boys, i like to RIDE my boys..l ya know FR  
+i be down to lit my self for the BOYS
